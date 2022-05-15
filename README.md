@@ -32,3 +32,36 @@ As a part of the backend team I did the following:
 - Created the database schema and deployed the database on Amazon Web Services' Relational Database Service (RDS)
 - Created the routes to preform CRUD operations on 9 tables in the database using the Express framework and the Model View Controller (MVC) pattern
 - Used Token based authentication to secure the routes
+
+##How to use the application
+1. The first step is to clone this repository from Github. This can be done by using the following command:
+
+```git clone https://github.com/RayaanJIrani/team1-gui-db.git```
+2. The next once you have installed this repository is to install all the dependencies. This can be done by using the following commands:
+
+```cd backend```
+
+```npm install```
+
+```cd ..```
+
+```cd frontend```
+
+```npm install --force```
+
+```cd ..```
+3. Next, you will need to start up the database.
+4. After this, you should start up the site. This can be done by using the following command:
+
+```docker-compose up```
+5. After a few seconds you should be able to go to 'http://localhost:3000/' to acess the site.
+6. Once you are done with the site, you can stop the site by using the following command:
+
+```docker-compose down```
+
+##More Information
+For more information about this project please look at the usefulDocs folder.
+It contains:
+- All the stories and acceptance criteria
+- The database schema
+- Documentation for the backend API 
