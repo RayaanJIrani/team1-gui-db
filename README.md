@@ -1,6 +1,6 @@
 # Sitter 4 Hire
 
-##ABOUT
+## ABOUT
 This was the semester long project done as a collaboration between my Database class and the GUI class at SMU.
 The project involved the formation of a five-person development team with two GUI class members and three database class members. 
 The scope of the project was defined by a project team who set the stories and general vision of the project. 
@@ -26,14 +26,14 @@ The above is a general outline of the project. For the list of stories and accep
 
 I am happy to say the backend team was able to have 100% story acceptance.
 
-##My contributions
+## My contributions
 As a part of the backend team I did the following:
 - Used Agile and Scrum methodologies to develop the project as a part of a team
 - Created the database schema and deployed the database on Amazon Web Services' Relational Database Service (RDS)
 - Created the routes to preform CRUD operations on 9 tables in the database using the Express framework and the Model View Controller (MVC) pattern
 - Used Token based authentication to secure the routes
 
-##How to use the application
+## How to use the application
 1. The first step is to clone this repository from Github. This can be done by using the following command:
 
 ```git clone https://github.com/RayaanJIrani/team1-gui-db.git```
@@ -59,7 +59,7 @@ As a part of the backend team I did the following:
 
 ```docker-compose down```
 
-##More Information
+## More Information
 For more information about this project please look at the usefulDocs folder.
 It contains:
 - All the stories and acceptance criteria
