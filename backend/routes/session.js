@@ -139,6 +139,8 @@ router.post('/sitter/login', async (req, res, next) => {
     next();
 })
 
+//TODO add in a refresh route and a logout route
+
 
 
 module.exports = router;
