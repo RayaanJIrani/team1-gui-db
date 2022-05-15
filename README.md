@@ -50,7 +50,7 @@ As a part of the backend team I did the following:
 ```npm install --force```
 
 ```cd ..```
-3. Next, you will need to start up the database.
+3. Next, you will need to start up the database. Todo this, go to the usefulDocs folder and find the file named "DBGenerator.sql" and generate the database. Next go to the backend/knexfile.js and change my mysaql information to your database information.
 4. After this, you should start up the site. This can be done by using the following command:
 
 ```docker-compose up```
