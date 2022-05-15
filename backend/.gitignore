@@ -28,4 +28,4 @@ yarn.lock
 package-lock.json
 
 #Kenx file which has DB info
-/knexfile.js
+#/knexfile.js
