@@ -16,13 +16,13 @@ The goal of the project was to create an application which made it easy for fami
 The requirements were as follows:
 - Two separate account types: Parents and babysitters which should be able to register and login.
 - Both account types should be able to post times when they need a babysitter / can babysit.
-- The parent account type should be able to book a job wheb a babysitter is available.
+- The parent account type should be able to book a job when a babysitter is available.
 - Both account types should be able to rate the other and comment on the other.
 - The babysitter account type should be able to block the parent from booking jobs with them.
 - An account of one type should be able to message another account type.
 - Both account types should be able to search the above features based on a number of filters.
 
-The above is a general outline of the project. For the list of stories and acceptance criteria, please see [here](https://docs.google.com/spreadsheets/d/1NttrkBB6a3OwftQSePoXXepZQ3yCGZoYewbGJeboGog/edit#gid=0).
+The above is a general outline of the project. For the list of stories and acceptance criteria, please see [here](usefulDocs/userStoriesAndAcceptanceCriteria.xlsx).
 
 I am happy to say the backend team was able to have 100% story acceptance.
 
