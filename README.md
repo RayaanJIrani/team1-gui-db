@@ -10,7 +10,7 @@ The project in the repo is the product which I was a member of the backend (data
 Due to the increased amount of manpower needed to do the GUI side, there are some features which the backend has implemented which the GUI does not. 
 These include the ability to rate and comment on jobs, to block parents and the ability to search based on ratings. 
 
-##The project
+## The project
 The goal of the project was to create an application which made it easy for families to find and hire babysitters.
 
 The requirements were as follows:
